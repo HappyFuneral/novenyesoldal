@@ -241,6 +241,14 @@ font-weight: bold;
 
 }
 
+.divider-img {
+
+    width: 300px;
+    height: 32px;
+    align-items: center;
+
+}
+
 .divider {
     font-size: 30px;
     display: flex;
