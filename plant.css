@@ -249,12 +249,12 @@ font-weight: bold;
 }
 
 .divider {
-    font-size: 30px;
+    font-size: 17px;
     display: flex;
-    align-items: center;
+    align-items: start;
 }
 
-.divider::before, .divider::after {
+.divider::after {
     flex: 1;
     content: '';
     padding: 1px;
