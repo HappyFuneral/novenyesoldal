@@ -211,7 +211,6 @@ body {
     font-size: 17px;
     display: flex;
     align-items: start;
-    margin-left: 5px;
 }
 
 .italic {
@@ -219,8 +218,8 @@ body {
 }
 
 .green-text {
-    color: #224b22;
-    margin-left: 8px;
+    color: #377237;
+    text-align: justify;
 }
 .strong-text{
     text-transform: uppercase;
@@ -231,12 +230,12 @@ font-weight: bold;
     flex: 1;
     content: '';
     padding: 1px;
-    background-color: #224b22;
+    background-color: #377237;
     margin-top: 10px;
     margin-bottom: 10px;
 }
 .green-border {
-    border-color: #224b22;
+    border-color: #377237;
     border-bottom: solid 2px;
 
 }
